@@ -2,3 +2,5 @@ transformers
 torch
 jupyter
 scikit-learn
+matplotlib
+seaborn
